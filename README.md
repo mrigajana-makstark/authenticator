@@ -1,1 +1,1 @@
-# authenticator
+# CureIt
